@@ -1,0 +1,13 @@
+# Exclude large data files
+data/raw/
+models_saved/
+*.h5
+data/processed/
+*.npy
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+notebooks.rar
+not
+Untitled.ipynb
+Untitled1.ipynb
